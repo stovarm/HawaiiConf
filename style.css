@@ -1,3 +1,8 @@
+
+.text-platzi {
+    color: #97c93e;
+}
+
 #header img {
     width: 80px;
 }
@@ -9,6 +14,7 @@
 }
 
 #footer a {
+    text-align: center;
     color: white;
     text-decoration: none;
 }
