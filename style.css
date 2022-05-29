@@ -46,6 +46,18 @@
     object-fit: cover;
 }
 
+#badge {
+  font-size: 12px;
+}
+
+#place-time {
+    background-color: #343a40;
+    color: white;
+}
+
+#place-time img {
+    max-width: 100%;
+}
 
 #footer {
     background-color: #03091e;
