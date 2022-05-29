@@ -3,6 +3,15 @@
     color: #97c93e;
 }
 
+.btn-platzi {
+    background-color: #97c93e;
+    color: white;
+}
+
+.btn-platzi:hover {
+    background-color: #82ad36;
+}
+
 #header img {
     width: 80px;
 }
