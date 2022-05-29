@@ -41,6 +41,11 @@
     height: 100%;
 }
 
+#speakers img {
+    height: 300px;
+    object-fit: cover;
+}
+
 
 #footer {
     background-color: #03091e;
